@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Tue Jul 12 17:00:44 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0155-dedf-9826-00001cc572f0 
+on database directory memory:/home/alele/_tech/_codeBase/_camelPOCs/camel-sql/orders with class loader java.net.URLClassLoader@67b61d14 
+Loaded from file:/home/alele/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_92-b14
+user.dir=/home/alele/_tech/_codeBase/_camelPOCs/camel-sql
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-370.el7.rhel73drm.10.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jul 12 17:01:08 IST 2016: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Jul 12 17:01:08 IST 2016:
+Shutting down instance a816c00e-0155-dedf-9826-00001cc572f0 on database directory memory:/home/alele/_tech/_codeBase/_camelPOCs/camel-sql/orders with class loader java.net.URLClassLoader@67b61d14 
+----------------------------------------------------------------
