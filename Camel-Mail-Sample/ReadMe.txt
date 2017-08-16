@@ -17,3 +17,6 @@ or Apache Karaf. You can run the following command from its shell:
 For more help see the Apache Camel documentation
 
     http://camel.apache.org/
+=========================================
+
+Note: Please update the values inside the mail.properties placed inside the src/main/resources folder.
